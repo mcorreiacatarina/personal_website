@@ -15,6 +15,8 @@ toc:
 
 In 2025, four spaces in the province of Venice were designated as climate shelters, as a pilot project; among them the public library in Martellago and the park in Mirano.
 
+With the help of Ca' Foscari and CMCC colleagues, we administered surveys to users of these spaces, to determine the barriers and incentives to use of shelters and to assess the effectiveness of training events held within them. Results from this preliminary analysis can be found in the working paper below: 
+
 Midões, C., Ambeza, V., Pistorio, A., Mazzone, A. and De Cian, E., ["Climate shelters as a social response to heat and climate illiteracy: Evidence from a 2025 Pilot in Venice"](https://econpapers.repec.org/paper/venwpaper/2026_3a09.htm), Ca' Foscari University of Venice, Department of Economics Research Paper Series No. 09/2026.
 
 ### Adaptation behaviours: representative survey of the Italian population
@@ -23,7 +25,11 @@ Coming soon.
 
 ### Red Cross OASI
 
-[https://cri.it/oasi/](https://cri.it/oasi/)
+Together with Nicolò Gebbani, we are providing assistance to the Italian Red Cross as they expand their cooling center initiative to assess possible behavioural barriers to their success. More information on the Italian Red Cross initiative can be found at: [https://cri.it/oasi/](https://cri.it/oasi/)
+
+### Mapping of climate shelter initiatives in Italy
+
+As of today, we have found 41 different climate shelter initiatives in Italy. We are actively collecting information on these rapidly expanding projects. 
 
 ## Towards a climate shelter research network
 

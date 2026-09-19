@@ -74,3 +74,19 @@
 h2 {
   font-weight: 700;
 }
+
+// Publication summaries live in the `abstract` field of each .bib entry, which
+// al-folio collapses behind an "Abs" toggle (`_sass/_publications.scss` sets
+// `.hidden { max-height: 0 }`). Show them inline under the DOI row instead, and
+// drop the toggle that no longer has anything to reveal.
+//
+// Both selectors outrank the gem's by one class and one element, so they do not
+// depend on source order. Note the toggle shares its class with the "Video"
+// button; if a video entry is ever added, narrow the second rule.
+.publications ol.bibliography li div.abstract.hidden {
+  max-height: none;
+}
+
+.publications ol.bibliography li .links a.abstract.btn {
+  display: none;
+}

@@ -4,7 +4,7 @@ permalink: /climate-shelters/
 title: climate shelters
 nav: true
 nav_order: 3
-description: As heatwaves become increasingly more frequent across Europe, implementing solutions, particularly to protect the most vulnerable, becomes essential. I am using my academic work on heat adaptation to enhance urban heat policy, specifically, by collaborating with several climate shelter networks at different stages of development. 
+description: As heatwaves become increasingly more frequent across Europe, implementing solutions, particularly to protect the most vulnerable, becomes essential. I am using my academic work on heat adaptation to enhance urban heat policy, specifically, by collaborating with several climate shelter networks at different stages of development.
 toc:
   sidebar: left
 ---
@@ -13,7 +13,7 @@ toc:
 
 ### The 2025 pilot in the province of Venice
 
-In 2025, four spaces in the province of Venice were designated as climate shelters, as a pilot project launched by Centro Servizio per il Volontariato Venezia (CSV Venezia); among them the public library in Martellago and the park in Mirano. With the help of Ca' Foscari and CMCC colleagues, we administered surveys to users of these spaces, to determine the barriers and incentives to use of shelters and to assess the effectiveness of training events held within them. Results from this preliminary analysis can be found in the working paper below: 
+In 2025, four spaces in the province of Venice were designated as climate shelters, as a pilot project launched by Centro Servizio per il Volontariato Venezia (CSV Venezia); among them the public library in Martellago and the park in Mirano. With the help of Ca' Foscari and CMCC colleagues, we administered surveys to users of these spaces, to determine the barriers and incentives to use of shelters and to assess the effectiveness of training events held within them. Results from this preliminary analysis can be found in the working paper below:
 
 Midões, C., Ambeza, V., Pistorio, A., Mazzone, A. and De Cian, E., ["Climate shelters as a social response to heat and climate illiteracy: Evidence from a 2025 Pilot in Venice"](https://econpapers.repec.org/paper/venwpaper/2026_3a09.htm), Ca' Foscari University of Venice, Department of Economics Research Paper Series No. 09/2026.
 
@@ -27,7 +27,7 @@ Together with Nicolò Gebbani, we are providing assistance to the Italian Red Cr
 
 ### Mapping of climate shelter initiatives in Italy
 
-As of today, we have found 41 different climate shelter initiatives in Italy. We are actively collecting information on these rapidly expanding projects. 
+As of today, we have found 41 different climate shelter initiatives in Italy. We are actively collecting information on these rapidly expanding projects.
 
 ## Towards a climate shelter research network
 
@@ -43,4 +43,4 @@ Coming soon.
 ## other climate shelter research and networking initiatives
 
 Coming soon.
---!>
+-->

@@ -13,8 +13,26 @@ nav_order: 1
 
 {% include bib_search.liquid %}
 
+## academic papers
+
 <div class="publications">
 
-{% bibliography %}
+{% bibliography -f academic %}
+
+</div>
+
+## working papers
+
+<div class="publications">
+
+{% bibliography -f working %}
+
+</div>
+
+## public policy papers
+
+<div class="publications">
+
+{% bibliography -f policy %}
 
 </div>

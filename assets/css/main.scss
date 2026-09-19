@@ -66,14 +66,11 @@
 }
 
 // The gem sets no font-weight on headings, so Bootstrap's default of 500 applies
-// and section headings read as semi-bold. Bold them instead.
+// and section headings read as semi-bold. Bold the top-level ones only.
 //
-// h1 is deliberately left out: it carries the site owner's name in the page
-// title, which is rendered at a single inherited weight by the rule above.
-h2,
-h3,
-h4,
-h5,
-h6 {
+// h1 is left out because it carries the site owner's name in the page title,
+// rendered at a single inherited weight by the rule above; h3 and below are left
+// at Bootstrap's weight so subsections stay visually subordinate to their `##`.
+h2 {
   font-weight: 700;
 }

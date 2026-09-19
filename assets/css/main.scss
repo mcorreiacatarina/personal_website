@@ -64,3 +64,16 @@
 .publications ol.bibliography li .author > em {
   border-bottom: none;
 }
+
+// The gem sets no font-weight on headings, so Bootstrap's default of 500 applies
+// and section headings read as semi-bold. Bold them instead.
+//
+// h1 is deliberately left out: it carries the site owner's name in the page
+// title, which is rendered at a single inherited weight by the rule above.
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 700;
+}

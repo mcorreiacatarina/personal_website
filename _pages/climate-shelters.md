@@ -9,7 +9,7 @@ toc:
   sidebar: left
 ---
 
-## ongoing projects
+## Ongoing projects
 
 ### The 2025 pilot in the province of Venice
 
@@ -35,10 +35,12 @@ A hybrid workshop, [_Towards a Cooling Centre Research Network_](https://www.uni
 
 The workshop brought together several of Italy's and Europe's cooling shelter, centre and refuge initiatives for the first time, with participants from CMCC, the Metropolitan Area of Barcelona, IUAV University of Venice, the Italian Red Cross, the University of Turin, Etifor and Rome's Climate Office. CMCC presented work on local vulnerabilities in the HEATSAFE pilot areas, and the Metropolitan Area of Barcelona its climate refuge network — including micro-shelters hosted by pharmacies, piloted to shorten the distance people have to travel. Discussion returned to co-design: a cooling centre has to be accessible, comfortable and attractive to the people it is meant for, and local vulnerabilities are specific enough that data analysis alone does not identify them. Next steps are to map existing initiatives and to coordinate future questionnaires. [Workshop write-up](https://heatsafe.interreg-euro-med.eu/2026/04/14/heatsafe-project-presented-among-climate-shelters-and-local-heat-management-experiences-in-a-dedicated-workshop-in-venice/).
 
-## upcoming projects
+## Upcoming projects
 
 Coming soon.
 
+<!--
 ## other climate shelter research and networking initiatives
 
 Coming soon.
+--!>

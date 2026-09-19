@@ -4,7 +4,7 @@ permalink: /climate-shelters/
 title: climate shelters
 nav: true
 nav_order: 3
-description: Research on climate shelters — a 2025 pilot in the province of Venice, and related ongoing work.
+description: Research on climate shelters
 toc:
   sidebar: left
 ---

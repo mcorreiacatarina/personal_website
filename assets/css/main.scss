@@ -1,0 +1,56 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@charset "utf-8";
+
+/* Built-in Sass modules you’ll likely use across partials */
+@use "sass:math";
+@use "sass:string";
+
+/* Configure your design tokens BEFORE loading any of your partials.
+   Make sure `_sass/_variables.scss` declares `$max-content-width: 72rem !default;` */
+@use "variables" with (
+  $max-content-width: {{site.max_width | default: "930px"}}
+);
+
+/* Your project partials — convert these files to `@use "variables";`
+   (or `@use "variables" as *;`) inside each file and qualify variables if needed. */
+@use "themes";
+@use "layout";
+
+// Core styles organized by usage
+@use "typography";
+@use "navbar";
+@use "footer";
+@use "blog";
+@use "publications";
+@use "components";
+@use "utilities";
+
+// Other specialized styles
+@use "tabs";
+@use "teachings";
+@use "typograms";
+
+// ---------------------------------------------------------------------------
+// Site-local overrides
+//
+// This file shadows assets/css/main.scss in the al_folio_core gem. Everything
+// above is a verbatim copy of the gem's version; only the rules below this
+// line are ours. If the gem adds a partial in a future release it will not
+// appear here, so re-copy the block above when upgrading al_folio_core.
+// ---------------------------------------------------------------------------
+
+// al-folio bolds only the first name, in the homepage heading
+// (_layouts/about.liquid) and the navbar brand (_includes/header.liquid).
+// Render the full name at a single weight instead.
+//
+// Targets the element rather than the Bootstrap class: `upgrade apply --safe`
+// runs a font-weight-* -> font-* codemod, and a class-based selector would
+// silently stop matching if the gem's markup were renamed. In both templates
+// the first name is the only direct-child span of these containers.
+.post-title > span,
+.navbar-brand.title > span {
+  font-weight: inherit;
+}

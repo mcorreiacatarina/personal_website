@@ -30,4 +30,24 @@ Coming soon.
 
 ## Non-predominantly-research interests
 
+<div id="shuffled-interests" markdown="1">
+
 Coming soon.
+
+</div>
+
+<script>
+  // Shuffle the list above on every page view, so no interest is permanently
+  // first. Fisher-Yates; appending an existing node moves it, so the loop
+  // reorders in place. No-ops until the div actually contains a list.
+  (() => {
+    const list = document.querySelector("#shuffled-interests ul");
+    if (!list) return;
+    const items = [...list.children];
+    for (let i = items.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [items[i], items[j]] = [items[j], items[i]];
+    }
+    list.append(...items);
+  })();
+</script>

@@ -28,7 +28,7 @@ I am a postdoctoral researcher at the [CMCC](https://www.cmcc.it/people/midoes-c
 
 My research has also covered impact evaluation and statistical inference on measures of inequality. Before that, I worked on the design, implementation and evaluation of European public policies, both at the Brussels think tank Bruegel and in the European Commission's Joint Research Centre.
 
-I hold PhDs in Economics from Ca' Foscari University of Venice and in Environmental Sciences from the Autonomous University of Barcelona, completed under a Marie Skłodowska-Curie fellowship. I also hold a Master's degree in Econometrics from Maastricht University and a Bachelor's degree in Economics from Nova SBE in Lisbon.
+I hold PhDs in Economics and in Environmental Science completed under a MSC fellowship, and a Master's in Econometrics.
 
 #### Research interests (in randomized order)
 

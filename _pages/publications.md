@@ -37,10 +37,10 @@ nav_order: 1
 
 </div>
 
-## talks and presentations
+## selected short pieces
 
 <div class="publications">
 
-{% bibliography -f talks %}
+{% bibliography -f short_pieces %}
 
 </div>

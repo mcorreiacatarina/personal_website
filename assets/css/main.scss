@@ -54,3 +54,13 @@
 .navbar-brand.title > span {
   font-weight: inherit;
 }
+
+// al-folio marks the site owner's name in a bibliography entry by wrapping it
+// in <em> and underlining it (_sass/_publications.scss sets
+// `.author > em { border-bottom: 1px solid }`). Drop the rule.
+//
+// Matches the gem's selector exactly and relies on source order: the site-local
+// block is emitted after `@use "publications"`, so equal specificity wins here.
+.publications ol.bibliography li .author > em {
+  border-bottom: none;
+}

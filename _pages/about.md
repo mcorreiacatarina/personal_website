@@ -24,6 +24,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+I hold PhDs in Economics from Ca' Foscari University of Venice and in Environmental Sciences from the Autonomous University of Barcelona, completed under a Marie Skłodowska-Curie fellowship. I also hold a Master's degree in Econometrics from Maastricht University and a Bachelor's degree in Economics from Nova SBE in Lisbon.
+
 #### Research interests (in randomized order)
 
 <div class="shuffled-interests" markdown="1">

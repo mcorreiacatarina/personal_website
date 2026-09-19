@@ -2,9 +2,9 @@
 # the socials will be displayed in the order they are defined here
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
 email: catarina.midoes@unive.it
+linkedin_username: midoescorreia
 orcid_id: 0000-0003-4058-9182
 scholar_userid: hA46Mj4AAAAJ
 # Keys left unset must stay commented out: jekyll-socials concatenates some
 # values (cv_pdf) with the baseurl, and a nil value crashes the build.
-# linkedin_username: # the part after /in/ in your profile URL
 # cv_pdf: # path to your CV PDF file

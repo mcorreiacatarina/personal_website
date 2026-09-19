@@ -26,6 +26,8 @@ latest_posts:
 
 I am a postdoctoral researcher working on the impacts of heat and climate change on vulnerable populations, on the effectiveness of local heat adaptation policy, and on its implementation, namely regarding climate shelter networks (see [dedicated tab](/climate-shelters/)), heat action plans (under the EU project [HEATSAFE](https://heatsafe.interreg-euro-med.eu/)) and Nature-based solutions (under the EU project [NBRACER](https://nbracer.eu/)).
 
+Before that, I worked on the design, implementation and evaluation of European public policies — at the Brussels think tank Bruegel, co-authoring studies for the European Commission and the European Parliament on Cohesion Policy and the Just Transition Fund, and at the European Commission's Joint Research Centre, on the implementation of structural reforms. Earlier I was an economic analyst at the consultancy Oxera, in England. My research has also covered impact evaluation and statistical inference on measures of inequality.
+
 I hold PhDs in Economics from Ca' Foscari University of Venice and in Environmental Sciences from the Autonomous University of Barcelona, completed under a Marie Skłodowska-Curie fellowship. I also hold a Master's degree in Econometrics from Maastricht University and a Bachelor's degree in Economics from Nova SBE in Lisbon.
 
 #### Research interests (in randomized order)

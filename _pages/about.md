@@ -30,9 +30,9 @@ Before, I worked on the design, implementation and evaluation of European public
 
 I hold PhDs in Economics and in Environmental Science completed under a Marie Skłodowska-Curie fellowship, and a Master's in Econometrics.
 
-#### Research interests (in randomized order)
-
 <div class="shuffled-interests" markdown="1">
+
+#### Research interests (in randomized order):
 
 - Inference
 - Inequality
@@ -42,9 +42,9 @@ I hold PhDs in Economics and in Environmental Science completed under a Marie Sk
 
 </div>
 
-#### Non-exclusively-research interests (in randomized order)
-
 <div class="shuffled-interests" markdown="1">
+
+#### Non-exclusively-research interests (in randomized order):
 
 - Rights of prisoners
 - Political discourse

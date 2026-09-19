@@ -95,7 +95,19 @@ h2 {
 // they stay easy to edit, but read better as a single comma-separated run.
 // `:last-child` tracks the DOM, so the separator stays correct after the
 // shuffling script reorders the items.
+// The heading sits inside the div so it can share a line with its list; both it
+// and the list items are inlined, and the block keeps the vertical rhythm the
+// heading would otherwise have provided.
+.shuffled-interests {
+  margin-bottom: 1rem;
+}
+
+.shuffled-interests h4 {
+  display: inline;
+}
+
 .shuffled-interests ul {
+  display: inline;
   list-style: none;
   padding-left: 0;
 }

@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-## Research interests (in randomized order)
+#### Research interests (in randomized order)
 
 <div class="shuffled-interests" markdown="1">
 
@@ -36,7 +36,7 @@ latest_posts:
 
 </div>
 
-## Non-exclusively-research interests (in randomized order)
+#### Non-exclusively-research interests (in randomized order)
 
 <div class="shuffled-interests" markdown="1">
 

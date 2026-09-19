@@ -28,6 +28,6 @@ Placeholder text.
 
 Placeholder text.
 
-## Third subsection
+## Other Climate Shelter Research and Networking initiatives
 
 Placeholder text.

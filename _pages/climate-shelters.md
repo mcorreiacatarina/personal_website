@@ -25,7 +25,7 @@ Coming soon.
 
 ### Red Cross OASI
 
-Together with Nicolò Gebbani, we are providing assistance to the Italian Red Cross as they expand their cooling center initiative to assess possible behavioural barriers to their success. More information on the Italian Red Cross initiative can be found at: [https://cri.it/oasi/](https://cri.it/oasi/)
+Together with Nicolò Gebbani, we are providing assistance to the Italian Red Cross as they expand their cooling center initiative. We aim to identify behavioural barriers to their success, alongside the impacts their creation is having on the Red Cross user base and quality of services. More information on the Italian Red Cross initiative of cooling centers - OASI - can be found at: [https://cri.it/oasi/](https://cri.it/oasi/)
 
 ### Mapping of climate shelter initiatives in Italy
 

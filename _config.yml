@@ -2,9 +2,9 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: # the website title (if blank, full name will be used instead)
+title: blank # set to the literal word "blank" to use your full name; any other value is used verbatim. Leaving this empty renders an empty <title>.
 first_name: Catarina
-middle_name: 
+middle_name:
 last_name: Midões
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.

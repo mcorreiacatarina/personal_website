@@ -24,15 +24,27 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-## Research interests
-
-Coming soon.
-
-## Non-predominantly-research interests
+## Research interests (in randomized order)
 
 <div id="shuffled-interests" markdown="1">
 
-Coming soon.
+- Inference
+- Inequality
+- Heat Adaptation Policy
+- Climate Change Policy
+- Impact Evaluation   
+
+</div>
+
+## Non-exclusively-research interests (in randomized order)
+
+<div id="shuffled-interests" markdown="1">
+
+- Rights of prisioners  
+- Political discourse
+- Political theory
+- Gender norms
+- Violence propagation 
 
 </div>
 

@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a postdoctoral researcher at the [CMCC](https://www.cmcc.it/people/midoes-catarina) working on the impacts of heat and climate change on vulnerable populations, on the effectiveness of local heat adaptation policy, and on its implementation, namely regarding climate shelter networks (see [dedicated tab](/climate-shelters/)), heat action plans (under the EU project [HEATSAFE](https://heatsafe.interreg-euro-med.eu/)) and Nature-based solutions (under the EU project [NBRACER](https://nbracer.eu/)).
+I am a postdoctoral researcher at the [CMCC](https://www.cmcc.it/people/midoes-catarina) working on the impacts of heat and climate change on vulnerable populations, on the effectiveness of local heat adaptation policy, and on its implementation, namely regarding climate shelter networks (see [dedicated tab](/climate-shelters/)), heat action plans (under the EU project [HEATSAFE](https://heatsafe.interreg-euro-med.eu/)) and Nature-based Solutions (under the EU project [NBRACER](https://nbracer.eu/)).
 
 My research has also covered impact evaluation and statistical inference on measures of inequality. Before that, I worked on the design, implementation and evaluation of European public policies, both at the Brussels think tank Bruegel and in the European Commission's Joint Research Centre.
 

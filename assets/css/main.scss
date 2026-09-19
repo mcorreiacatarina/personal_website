@@ -90,3 +90,21 @@ h2 {
 .publications ol.bibliography li .links a.abstract.btn {
   display: none;
 }
+
+// The interest lists on the about page are written as ordinary markdown lists so
+// they stay easy to edit, but read better as a single comma-separated run.
+// `:last-child` tracks the DOM, so the separator stays correct after the
+// shuffling script reorders the items.
+.shuffled-interests ul {
+  list-style: none;
+  margin-bottom: 0;
+  padding-left: 0;
+}
+
+.shuffled-interests li {
+  display: inline;
+}
+
+.shuffled-interests li:not(:last-child)::after {
+  content: ", ";
+}

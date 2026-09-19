@@ -4,7 +4,7 @@ permalink: /climate-shelters/
 title: climate shelters
 nav: true
 nav_order: 3
-description: Research on climate shelters
+description: As heatwaves become increasingly more frequent across Europe, implementing solutions, particularly to protect the most vulnerable, becomes essential. I am using my academic work on heat adaptation to enhance urban heat policy, specifically, by collaborating with several climate shelter networks at different stages of development. 
 toc:
   sidebar: left
 ---

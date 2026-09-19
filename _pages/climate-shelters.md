@@ -13,21 +13,18 @@ Intro paragraph goes here — a short framing of the work, before the first
 subsection. The sidebar on the left is generated automatically from the
 headings below, so it updates whenever you add or rename a section.
 
-## First subsection
-
-Replace this with real content. Every `##` heading becomes a top-level entry in
-the sidebar.
+## Ongoing Projects
 
 ### A nested subsection
 
 `###` headings nest underneath the `##` above them, so you can go two levels
 deep if a section needs breaking up.
 
-### Another nested subsection
+### Representative survey of the Italian Population 
 
 Placeholder text.
 
-## Second subsection
+## Upcoming Projects
 
 Placeholder text.
 

@@ -17,9 +17,13 @@ In 2025, four spaces in the province of Venice were designated as climate shelte
 
 Midões, C., Ambeza, V., Pistorio, A., Mazzone, A. and De Cian, E., ["Climate shelters as a social response to heat and climate illiteracy: Evidence from a 2025 Pilot in Venice"](https://econpapers.repec.org/paper/venwpaper/2026_3a09.htm), Ca' Foscari University of Venice, Department of Economics Research Paper Series No. 09/2026.
 
-### representative survey of the Italian population
+### adaptation behaviours: representative survey of the Italian population
 
 Coming soon.
+
+### Red Cross OASI
+
+https://cri.it/oasi/
 
 ## upcoming projects
 

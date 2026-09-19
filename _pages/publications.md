@@ -36,3 +36,11 @@ nav_order: 1
 {% bibliography -f policy %}
 
 </div>
+
+## talks and presentations
+
+<div class="publications">
+
+{% bibliography -f talks %}
+
+</div>

@@ -25,7 +25,7 @@ Coming soon.
 
 [https://cri.it/oasi/](https://cri.it/oasi/)
 
-## towards a climate shelter research network
+## Towards a climate shelter research network
 
 A hybrid workshop, [_Towards a Cooling Centre Research Network_](https://www.unive.it/data/33113/1/113275), held on 26 March 2026 at Sala Partesotti, San Giobbe Economics Campus, Ca' Foscari University of Venice, and co-organised with Enrica De Cian under the Department of Economics, NICHE, CMCC and HEATSAFE.
 

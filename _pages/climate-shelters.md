@@ -4,7 +4,7 @@ permalink: /climate-shelters/
 title: climate shelters
 nav: true
 nav_order: 3
-description: As heatwaves become increasingly more frequent across Europe, implementing solutions, particularly to protect the most vulnerable, becomes essential. I am using my academic work on heat adaptation to enhance urban heat policy, specifically, by collaborating with several climate shelter networks at different stages of development.
+description: I am using my academic work on heat adaptation to enhance urban heat policy, specifically, by collaborating with several climate shelter networks at different stages of development. Simultaneously, I am promoting discussions between those involved in these initiatives to find common ground and joint research opportunities. Reach out to me if you would like to discuss!
 toc:
   sidebar: left
 ---
@@ -19,7 +19,7 @@ Midões, C., Ambeza, V., Pistorio, A., Mazzone, A. and De Cian, E., ["Climate sh
 
 ### Adaptation behaviours: representative survey of the Italian population
 
-Coming soon.
+Building on a previous panel of Italian households, with Prof. Enrica de Cian and Victoire Ambeza, we have collected information on behavioural heat adaptation in general, and on attitudes towards climate shelters specifically. These results will strengthen the evidence-base to guide the scaling-up and creation of appealing and effective climate shelters across Italy.
 
 ### Red Cross Italy: Project OASI
 
@@ -37,7 +37,7 @@ The workshop brought together several of Italy's and Europe's cooling shelter, c
 
 ## Upcoming projects
 
-Coming soon.
+<!-- As part of -->
 
 <!--
 ## other climate shelter research and networking initiatives

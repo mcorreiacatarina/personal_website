@@ -40,7 +40,7 @@ The workshop brought together several of Italy's and Europe's cooling shelter, c
 ### Implementation from scratch of a Climate Shelter Network in Bucharest 
 Project financed under HORIZON-HLTH-2026-01 (starting in 2027).
 
-### Collaboration with Red Cross Catalonya and Universitat de Barcelona 
+### Collaboration with Red Cross Catalunya and Universitat de Barcelona 
 Together with Yannik Stucka, François Cohen and Federico Talato.
 
 <!-- As part of -->

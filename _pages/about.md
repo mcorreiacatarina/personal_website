@@ -26,40 +26,38 @@ latest_posts:
 
 ## Research interests (in randomized order)
 
-<div id="shuffled-interests" markdown="1">
+<div class="shuffled-interests" markdown="1">
 
 - Inference
 - Inequality
 - Heat Adaptation Policy
 - Climate Change Policy
-- Impact Evaluation   
+- Impact Evaluation
 
 </div>
 
 ## Non-exclusively-research interests (in randomized order)
 
-<div id="shuffled-interests" markdown="1">
+<div class="shuffled-interests" markdown="1">
 
-- Rights of prisioners  
+- Rights of prisoners
 - Political discourse
 - Political theory
 - Gender norms
-- Violence propagation 
+- Violence propagation
 
 </div>
 
 <script>
-  // Shuffle the list above on every page view, so no interest is permanently
-  // first. Fisher-Yates; appending an existing node moves it, so the loop
-  // reorders in place. No-ops until the div actually contains a list.
-  (() => {
-    const list = document.querySelector("#shuffled-interests ul");
-    if (!list) return;
+  // Shuffle every .shuffled-interests list on each page view, so no interest is
+  // permanently first. Fisher-Yates; appending an existing node moves it, so the
+  // loop reorders in place. A div with no list in it is simply skipped.
+  document.querySelectorAll(".shuffled-interests ul").forEach((list) => {
     const items = [...list.children];
     for (let i = items.length - 1; i > 0; i--) {
       const j = Math.floor(Math.random() * (i + 1));
       [items[i], items[j]] = [items[j], items[i]];
     }
     list.append(...items);
-  })();
+  });
 </script>

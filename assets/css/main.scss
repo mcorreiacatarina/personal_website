@@ -98,18 +98,18 @@ h2 {
 // The heading sits inside the div so it can share a line with its list; both it
 // and the list items are inlined, and the block keeps the vertical rhythm the
 // heading would otherwise have provided.
-// One size for the whole block, between the body text (1rem) and what an h4
-// would be (1.5rem), so the heading and its list read as a single run. The
-// heading inherits that size and is bolded to stay distinguishable.
+// One size for the whole block, matching the bio paragraphs so the interests
+// never read as larger than the prose above them. The heading inherits that
+// size and is bolded to stay distinguishable from its list.
 .shuffled-interests {
-  font-size: 1.2rem;
+  font-size: 1.1rem;
   margin-bottom: 1rem;
 }
 
 // Set the first block off from the bio. Keyed on following a paragraph, so the
 // gap lands only where the lists meet prose, not between the two lists.
 p + .shuffled-interests {
-  margin-top: 5rem;
+  margin-top: 8rem;
 }
 
 // Bio paragraphs on the about page, a step up from the 1rem body default. The

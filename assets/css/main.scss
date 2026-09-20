@@ -106,6 +106,12 @@ h2 {
   margin-bottom: 1rem;
 }
 
+// Set the first block off from the bio. Keyed on following a paragraph, so the
+// gap lands only where the lists meet prose, not between the two lists.
+p + .shuffled-interests {
+  margin-top: 2.5rem;
+}
+
 .shuffled-interests h4 {
   display: inline;
   font-size: inherit;

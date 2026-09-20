@@ -13,7 +13,7 @@ nav_order: 1
 
 {% include bib_search.liquid %}
 
-## academic papers
+## Academic Publications
 
 <div class="publications">
 
@@ -21,7 +21,7 @@ nav_order: 1
 
 </div>
 
-## working papers
+## Working papers
 
 <div class="publications">
 
@@ -29,7 +29,7 @@ nav_order: 1
 
 </div>
 
-## public policy papers
+## Public policy papers
 
 <div class="publications">
 
@@ -37,7 +37,7 @@ nav_order: 1
 
 </div>
 
-## selected short pieces
+## Selected short pieces
 
 <div class="publications">
 

@@ -7,11 +7,14 @@ first_name: Catarina
 middle_name:
 last_name: Midões
 contact_note:
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Personal website of Catarina Midões.
+# ">-" folds newlines and strips the trailing one. A trailing newline here would
+# land inside the Schema.org JSON-LD as a literal control character, invalidating it.
+description: >-
+  Catarina Midões is a postdoctoral researcher at the CMCC, working on the impacts of heat on vulnerable populations,
+  local heat adaptation policy, and climate shelter networks in Europe.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-keywords: # add your own keywords or leave empty
+keywords: climate shelters, cooling centres, heat adaptation, climate adaptation policy, heat and health, environmental economics, impact evaluation, inequality
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 apple_touch_icon: # image name in /assets/img/ (or a rooted path / absolute URL) used for iOS home-screen bookmarks; needs a real 180x180 PNG, since Safari ignores the emoji favicon above. Left empty, iOS falls back to a screenshot of the page.
@@ -107,8 +110,8 @@ max_width: 930px
 # -----------------------------------------------------------------------------
 # Display links to the page with a preview object on social media.
 # see https://schema.org/docs/faq.html for more information
-serve_og_meta: false # Include Open Graph meta tags in the HTML head
-serve_schema_org: false # Include Schema.org in the HTML head
+serve_og_meta: true # Include Open Graph meta tags in the HTML head
+serve_schema_org: true # Include Schema.org in the HTML head
 og_image: # The site-wide (default for all links) Open Graph preview image
 
 # -----------------------------------------------------------------------------

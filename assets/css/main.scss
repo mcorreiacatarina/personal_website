@@ -109,7 +109,14 @@ h2 {
 // Set the first block off from the bio. Keyed on following a paragraph, so the
 // gap lands only where the lists meet prose, not between the two lists.
 p + .shuffled-interests {
-  margin-top: 2.5rem;
+  margin-top: 5rem;
+}
+
+// Bio paragraphs on the about page, a step up from the 1rem body default. The
+// about layout is the only one that wraps its content in `.clearfix`, so this
+// does not touch the other pages.
+article > .clearfix > p {
+  font-size: 1.1rem;
 }
 
 .shuffled-interests h4 {

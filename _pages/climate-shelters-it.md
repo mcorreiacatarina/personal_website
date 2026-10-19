@@ -44,4 +44,4 @@ Progetto finanziato nell'ambito di HORIZON-HLTH-2026-01 (avvio nel 2027).
 
 ### Collaborazione con la Croce Rossa della Catalogna e l'Universitat de Barcelona
 
-Insieme a Yannik Stucka, François Cohen e Federico Talato.
+Insieme a Yannik Stuka, François Cohen e Federico Talato.

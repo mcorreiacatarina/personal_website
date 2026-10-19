@@ -9,6 +9,8 @@ toc:
   sidebar: left
 ---
 
+**EN** · [IT](/climate-shelters/it/) · [PT](/climate-shelters/pt/)
+
 ## Ongoing projects
 
 ### The 2025 pilot in the province of Venice

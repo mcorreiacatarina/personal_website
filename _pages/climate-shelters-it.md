@@ -3,7 +3,7 @@ layout: page
 permalink: /climate-shelters/it/
 title: rifugi climatici
 nav: false
-description: Utilizzo il mio lavoro accademico sull'adattamento al caldo per rafforzare le politiche urbane contro il caldo, in particolare collaborando con diverse reti di rifugi climatici in diverse fasi di sviluppo. Allo stesso tempo, promuovo il dialogo tra i soggetti coinvolti in queste iniziative, per trovare un terreno comune e opportunità di ricerca congiunta. Contattami se vuoi parlarne!
+description: Metto la mia ricerca accademica sull’adattamento al caldo al servizio delle politiche urbane, collaborando in particolare con reti di rifugi climatici in diverse fasi di sviluppo. Allo stesso tempo, promuovo il dialogo tra i soggetti coinvolti in queste iniziative per individuare punti di incontro e opportunità di ricerca congiunta. Contattami (catarina.midoes@cmcc.it) se vuoi parlarne!
 toc:
   sidebar: left
 ---

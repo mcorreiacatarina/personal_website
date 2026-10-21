@@ -12,6 +12,10 @@ toc:
 
 ## Progetti in corso
 
+### Mappatura delle iniziative di rifugi climatici in Italia: collaborazione con ANCI
+
+In collaborazione con ANCI (Associazione Nazionale dei Comuni Italiani), stiamo raccogliendo informazioni sui progetti di rifugi climatici a livello comunale. Contattateci all’indirizzo catarina.midoes@mccc.it per condividere i piani del vostro comune, ricevere aggiornamenti sulla mappatura o collaborare nell’ambito di queste reti!
+
 ### Il progetto pilota 2025 nella provincia di Venezia
 
 Nel 2025, quattro spazi nella provincia di Venezia sono stati designati come rifugi climatici, nell'ambito di un progetto pilota avviato dal Centro Servizio per il Volontariato Venezia (CSV Venezia); tra questi, la biblioteca pubblica di Martellago e il parco di Mirano. Con l'aiuto di colleghi di Ca' Foscari e del CMCC, abbiamo somministrato questionari agli utenti di questi spazi, per individuare le barriere e gli incentivi all'uso dei rifugi e per valutare l'efficacia degli eventi formativi organizzati al loro interno. I risultati di questa analisi preliminare sono disponibili nel working paper qui sotto:
@@ -25,10 +29,6 @@ A partire da un precedente panel di famiglie italiane, con la Prof.ssa Enrica De
 ### Croce Rossa Italiana: Progetto OASI
 
 Insieme a Nicolò Gebbani, stiamo affiancando la Croce Rossa Italiana nell'espansione della sua iniziativa di centri di raffrescamento. Il nostro obiettivo è individuare le barriere comportamentali al loro successo, insieme agli effetti che la loro creazione sta avendo sugli utenti della Croce Rossa e sulla qualità dei servizi. Maggiori informazioni sull'iniziativa dei centri di raffrescamento della Croce Rossa Italiana - OASI - sono disponibili su: [https://cri.it/oasi/](https://cri.it/oasi/)
-
-### Mappatura delle iniziative di rifugi climatici in Italia
-
-Ad oggi, abbiamo individuato 41 diverse iniziative di rifugi climatici in Italia. Stiamo raccogliendo attivamente informazioni su questi progetti, in rapida espansione.
 
 ## Verso una rete di ricerca sui rifugi climatici
 

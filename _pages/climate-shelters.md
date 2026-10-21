@@ -13,6 +13,10 @@ toc:
 
 ## Ongoing projects
 
+### Mapping of climate shelter initiatives in Italy
+
+In collaboration with ANCI (Associazione Nazionale dei Comuni Italiani), we are actively collecting information on climate shelter networks and projects at the local level. Reach out if you would like to either tell us what your Comune has in store or collaborate!
+
 ### The 2025 pilot in the province of Venice
 
 In 2025, four spaces in the province of Venice were designated as climate shelters, as a pilot project launched by Centro Servizio per il Volontariato Venezia (CSV Venezia); among them the public library in Martellago and the park in Mirano. With the help of Ca' Foscari and CMCC colleagues, we administered surveys to users of these spaces, to determine the barriers and incentives to use of shelters and to assess the effectiveness of training events held within them. Results from this preliminary analysis can be found in the working paper below:
@@ -26,10 +30,6 @@ Building on a previous panel of Italian households, with Prof. Enrica de Cian an
 ### Red Cross Italy: Project OASI
 
 Together with Nicolò Gebbani, we are providing assistance to the Italian Red Cross as they expand their cooling center initiative. We aim to identify behavioural barriers to their success, alongside the impacts their creation is having on the Red Cross user base and quality of services. More information on the Italian Red Cross initiative of cooling centers - OASI - can be found at: [https://cri.it/oasi/](https://cri.it/oasi/)
-
-### Mapping of climate shelter initiatives in Italy
-
-In collaboration with ANCI (Associazione Nazionale dei Comuni Italiani), we are actively collecting information on climate shelter networks and projects at the local level. Reach out if you would like to either tell us what your Comune has in store or collaborate!
 
 ## Towards a climate shelter research network
 

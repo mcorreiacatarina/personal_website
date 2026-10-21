@@ -29,7 +29,7 @@ Together with Nicolò Gebbani, we are providing assistance to the Italian Red Cr
 
 ### Mapping of climate shelter initiatives in Italy
 
-As of today, we have found 41 different climate shelter initiatives in Italy. We are actively collecting information on these rapidly expanding projects.
+In collaboration with ANCI (Associazione Nazionale dei Comuni Italiani), we are actively collecting information on climate shelter networks and projects at the local level. Reach out if you would like to either tell us what your Comune has in store or collaborate!
 
 ## Towards a climate shelter research network
 

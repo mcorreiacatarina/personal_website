@@ -9,10 +9,10 @@ thumbnail: assets/img/blog/rifugi-climatici/comuni_it.png
 ---
 
 **IT** · In collaborazione con ANCI (Associazione Nazionale dei Comuni Italiani), stiamo mappando le iniziative di rifugi climatici nei comuni
-italiani, combinando lo scraping dei siti web comunali con un questionario.
+italiani, combinando la ricerca sui siti web comunali con un questionario.
 
 **EN** · In collaboration with ANCI (Associazione Nazionale dei Comuni Italiani), we are mapping climate shelter initiatives in Italian
-municipalities, combining scraping of municipal websites with a survey.
+municipalities, combining a search of municipal websites with a survey.
 
 ## i comuni · the municipalities
 
@@ -29,7 +29,7 @@ municipalities, combining scraping of municipal websites with a survey.
     </div>
 </div>
 <div class="caption">
-    Comuni con iniziative di rifugio climatico · Italian municipalities with climate shelter initiatives. Scraping dei siti comunali e questionario · municipal website scraping and survey, 2026.
+    Comuni con iniziative di rifugio climatico · Italian municipalities with climate shelter initiatives. Ricerca sui siti comunali e questionario · municipal website search and survey, 2026.
 </div>
 
 ## i luoghi · the places

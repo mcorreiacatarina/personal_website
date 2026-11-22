@@ -28,7 +28,7 @@ Juntamente com Nicolò Gebbani, estamos a apoiar a Cruz Vermelha Italiana na exp
 
 ### Mapeamento das iniciativas de abrigos climáticos em Itália
 
-Até à data, identificámos 41 iniciativas diferentes de abrigos climáticos em Itália. Estamos a recolher ativamente informação sobre estes projetos, que se encontram em rápida expansão.
+Em colaboração com a ANCI (Associazione Nazionale dei Comuni Italiani), estamos a mapear as iniciativas de abrigos climáticos nos municípios italianos. Até à data, identificámos 187 municípios com uma iniciativa ativa e 70 com uma iniciativa em planeamento ([mapas](/blog/2026/mappatura-rifugi-climatici/)).
 
 ## Rumo a uma rede de investigação sobre abrigos climáticos
 

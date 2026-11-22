@@ -14,7 +14,7 @@ toc:
 
 ### Mappatura delle iniziative di rifugi climatici in Italia: collaborazione con ANCI
 
-In collaborazione con ANCI (Associazione Nazionale dei Comuni Italiani), stiamo raccogliendo informazioni sui progetti di rifugi climatici a livello comunale. Contattateci all’indirizzo catarina.midoes@mccc.it per condividere i piani del vostro comune, ricevere aggiornamenti sulla mappatura o collaborare nell’ambito di queste reti!
+In collaborazione con ANCI (Associazione Nazionale dei Comuni Italiani), stiamo raccogliendo informazioni sui progetti di rifugi climatici a livello comunale. Contattateci all’indirizzo catarina.midoes@cmcc.it per condividere i piani del vostro comune, ricevere aggiornamenti sulla mappatura o collaborare nell’ambito di queste reti!
 
 ### Il progetto pilota 2025 nella provincia di Venezia
 
